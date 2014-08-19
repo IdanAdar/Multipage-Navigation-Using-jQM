@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="JQM_MultiPageNavigationProject">
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/air"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/ipad"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/mobilewebapp"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/iphone"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/blackberry"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/windows8"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/windowsphone8"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/desktopbrowser"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm/blackberry10"/>
+        <wb-resource deploy-path="/" source-path="/apps/testapp_jqm_load/common"/>
+        <property name="context-root" value="JQM_MultiPageNavigationProject"/>
+    </wb-module>
+</project-modules>
